@@ -1,10 +1,10 @@
 # Raissa Almeida ✩
-*Desenvolvedora fullstack e design*
+**Desenvolvedora fullstack e design**
 
 Oi, eu sou a Raissa Almeida. Sou estudante de Engenharia da Computação na UFES e adoro explorar o mundo da tecnologia. Tenho interesse em desenvolvimento de sistemas, redes, Linux e automação, mas também gosto de colocar a mão na massa em projetos de programação, web e Arduino. Estou sempre aprendendo coisas novas e buscando transformar ideias em projetos práticos.
 ---
 
-### Lingagens e Tecnologias 
+### Lingagens e Tecnologias ⚙️
 <img 
     align="left" 
     alt="HTML"
